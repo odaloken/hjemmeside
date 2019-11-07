@@ -1,0 +1,62 @@
+h1 {
+  text-align: center;
+  text-decoration-line: underline;
+  text-transform: full-width;
+  color: #FFFF99;
+}
+h2 {
+  text-align: center;
+  color: #FFF7B7;
+}
+body {
+  background-color: #012634;
+  text-align: center;
+}
+.quiz {
+  color: grey;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+}
+
+.bilde1 {
+  width: 200px;
+  border-style: solid;
+  border-color: grey;
+}
+.tekst1 {
+  color: grey;
+  font-size: 20px;
+}
+.tekst2 {
+  color: grey;
+  font-size: 20px;
+}
+.video1 {
+  color: grey;
+  font-size: 20px;
+}
+.video2 {
+  color: grey;
+  font-size: 20px;
+}
+.video3 {
+  color: grey;
+  font-size: 20px;
+}
+.video4 {
+  color: grey;
+  font-size: 20px;
+}
+.video5 {
+  color: grey;
+  font-size: 20px;
+}
+.video6 {
+  color: grey;
+  font-size: 20px;
+}
+.video7 {
+  color: grey;
+  font-size: 20px;
+}
